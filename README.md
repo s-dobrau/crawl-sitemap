@@ -7,7 +7,7 @@ To use against sitemap XML:
 Dependencies:
 
 - gau https://github.com/lc/gau
-- xml-twig-tools, perl xml treebuiilder (TODO broken dependency HTML treebuilder on Arch. Worked on Gentoo)
+- xml-twig-tools, perl xml treebuilder (TODO broken dependency HTML treebuilder on Arch. Worked on Gentoo)
 - wget2
 - parallel
 - plocate
