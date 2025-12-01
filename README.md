@@ -1,5 +1,9 @@
 Crawl sitemap or domain using gau and convert to org. TODO: fix dependencies
 
+To use against sitemap XML:
+
+``hh22oo-sitemap XML_URL_PATH``
+
 Dependencies:
 
 - gau https://github.com/lc/gau
